@@ -1,0 +1,7 @@
+C:\Users\Mevlüt\source\repos\MetotlarFunctions\MetotlarFunctions\bin\Debug\MetotlarFunctions.exe.config
+C:\Users\Mevlüt\source\repos\MetotlarFunctions\MetotlarFunctions\bin\Debug\MetotlarFunctions.exe
+C:\Users\Mevlüt\source\repos\MetotlarFunctions\MetotlarFunctions\bin\Debug\MetotlarFunctions.pdb
+C:\Users\Mevlüt\source\repos\MetotlarFunctions\MetotlarFunctions\obj\Debug\MetotlarFunctions.csproj.AssemblyReference.cache
+C:\Users\Mevlüt\source\repos\MetotlarFunctions\MetotlarFunctions\obj\Debug\MetotlarFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Mevlüt\source\repos\MetotlarFunctions\MetotlarFunctions\obj\Debug\MetotlarFunctions.exe
+C:\Users\Mevlüt\source\repos\MetotlarFunctions\MetotlarFunctions\obj\Debug\MetotlarFunctions.pdb
